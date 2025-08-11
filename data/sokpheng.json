@@ -187,6 +187,18 @@
       ]
     },
     {
+      "title": "Fluentflow | English Club 2024",
+      "type": "English Learning platform with AI-base",
+      "role": "Lead & Project Mentor | Backend Support",
+      "description": "English platform for both begginer and advanced. Freely to test english abilities, especially for Cambodian Learners",
+      "technologies": [
+        "Fast API",
+        "Kafaka for large data processing",
+        "AI Model",
+        "Database Optimization"
+      ]
+    },
+    {
       "title": "CAM-GIVING Platform",
       "type": "Donation & Resource Sharing Platform",
       "role": "Project Leader & Backend Developer",
@@ -221,6 +233,16 @@
         "Automated Testing",
         "Security Reporting",
         "Web Security"
+      ]
+    },
+     {
+      "title": "University Student registration RUPP 2022",
+      "type": "Web application for students registration",
+      "role": "Developer",
+      "description": "Final Project for finishing the semeter at the University",
+      "technologies": [
+        "Laravel",
+        "Linux"
       ]
     }
   ],
