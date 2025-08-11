@@ -24,14 +24,6 @@ function renderHero() {
                 <h1>${personal.name}</h1>
                 <p class="subtitle">${personal.title}</p>
                 <div class="quote">"${personal.quote}"</div>
-                <div class="social-links">
-                    <a href="https://github.com/${personal.github || 'yourusername'}" target="_blank" rel="noopener noreferrer" class="social-link">
-                        <span>GitHub</span>
-                    </a>
-                    <a href="https://linkedin.com/in/${personal.linkedin || 'yourprofile'}" target="_blank" rel="noopener noreferrer" class="social-link">
-                        <span>LinkedIn</span>
-                    </a>
-                </div>
             `;
 }
 
