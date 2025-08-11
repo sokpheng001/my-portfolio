@@ -142,10 +142,11 @@
       "company": "Center of Science and Technology Advanced Development",
       "period": "Jan 2024 - Present",
       "achievements": [
+        "Training Full-stack web development course",
+        "System Administrator",
         "Specialized instruction in Web Security Penetration Testing, Full Stack Web Development, and CI/CD practices",
         "Developed comprehensive course syllabi and training materials for cybersecurity programs",
-        "Mentored students on practical security projects including penetration testing methodologies",
-        "Led project development initiatives in web security tools and vulnerability assessment platforms"
+        "Mentored students on practical web projects including penetration testing methodologies"
       ]
     },
     {
@@ -153,9 +154,8 @@
       "company": "Independent",
       "period": "2023 - 2024",
       "achievements": [
-        "Developed secure web applications with focus on security best practices",
-        "Implemented security testing protocols and vulnerability assessments for client projects",
-        "Provided consultation on web security and secure coding practices"
+        "Developed Web application",
+        "Provided setting up tools for Web application like traffic management using third-party service (Cloudflare,etc)"
       ]
     }
   ],
