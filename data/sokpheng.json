@@ -166,6 +166,7 @@
       "role": "Lead & Project Mentor",
       "description": "Comprehensive platform designed for penetration testers and DevSecOps engineers to automatically test and scan project code for vulnerabilities and security flaws. Features automated vulnerability detection, detailed reporting, and remediation guidance.",
       "technologies": [
+        "Spring boot",
         "Python",
         "Security Analysis",
         "Code Scanning",
