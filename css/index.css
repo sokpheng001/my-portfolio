@@ -45,6 +45,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: "Google Sans", "Roboto", -apple-system, BlinkMacSystemFont,
     sans-serif;
@@ -524,4 +525,10 @@ body {
   .section {
     padding: 24px 16px;
   }
+}
+
+#copy-right{
+  display: flex;
+  justify-content: center;
+  color: var(--border-medium);
 }
