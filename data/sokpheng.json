@@ -1,0 +1,235 @@
+{
+  "personal": {
+    "name": "Kim Chansokpheng",
+    "title": "Cybersecurity - Web Penetration Tester | Full-Stack Developer | IT Instructor",
+    "quote": "Learning from others is my strength :)",
+    "email": "kimchansokpheng123@gmail.com"
+  },
+  "about": {
+    "purpose": "I am a dedicated individual with a profound passion for computer technology, innovation, arts, and business. My future goal is to build up the strong backgrounds, skills, work experiences, communication, a strong Cybersecurity community in Cambodia and wanted to bring all of these to global to show up both communities and country reputation.",
+    "description": "Passionate Cybersecurity Expert and Full-Stack Developer with 3+ years of experience in web development, penetration testing, and IT instruction. Specialized in web security, with hands-on experience in bug bounty programs and CTF competitions. Currently serving as an IT Instructor at the Center of Science and Technology Advanced Development, mentoring the next generation of cybersecurity professionals."
+  },
+  "stats": [
+    {
+      "number": "3+",
+      "label": "Years IT Experience"
+    },
+    {
+      "number": "8",
+      "label": "Years Music Production"
+    },
+    {
+      "number": "200+",
+      "label": "IT Students Trained"
+    },
+    {
+      "number": "10+",
+      "label": "Security Projects"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CCNA (Cisco Certified Network Associate)",
+      "issuer": "Cisco",
+      "date": "2023",
+      "description": "Comprehensive networking certification covering network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability.",
+      "skills": [
+        "Network Configuration",
+        "Routing & Switching",
+        "Network Security",
+        "Network Troubleshooting"
+      ],
+      "icon": "🏆"
+    },
+    {
+      "name": "CCNv7 Certificate: Introduce to Networks",
+      "issuer": "Cisco",
+      "date": "2023",
+      "description": "Enterprise Networking, Security, and Automation certification covering fundamental networking concepts, network infrastructure, and security principles.",
+      "skills": [
+        "Enterprise Networking",
+        "Network Security",
+        "Network Automation",
+        "Network Infrastructure"
+      ],
+      "icon": "🌐"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Highest Academic Achievement",
+      "description": "Highest possible mark (Grade A) at the end of high school graduate",
+      "date": "High School Graduation",
+      "category": "Academic Excellence",
+      "icon": "🎓"
+    },
+    {
+      "title": "Physics Competition Award",
+      "description": "Physics Competition Exam at District and Provincial Levels",
+      "date": "2018",
+      "category": "Academic Competition",
+      "icon": "🏅"
+    }
+  ],
+  "skills": [
+    {
+      "icon": "🔐",
+      "title": "Cybersecurity",
+      "description": "Specialized in identifying and exploiting security vulnerabilities through comprehensive penetration testing, web application security assessments, and participation in bug bounty programs and CTF competitions.",
+      "tags": [
+        "Penetration Testing",
+        "Web Security",
+        "Vulnerability Assessment",
+        "Bug Bounty",
+        "CTF",
+        "SQL Injection",
+        "Network Scanning"
+      ]
+    },
+    {
+      "icon": "💻",
+      "title": "Web Development",
+      "description": "Experienced in building secure, scalable web applications from frontend interfaces to backend systems, with expertise in API development, database architecture, and implementing DevSecOps practices.",
+      "tags": [
+        "Full-Stack Development",
+        "Frontend",
+        "Backend",
+        "API Development",
+        "Database Design",
+        "DevSecOps"
+      ]
+    },
+    {
+      "icon": "🌐",
+      "title": "Networking",
+      "description": "CCNA certified professional with expertise in designing, implementing, and securing enterprise network infrastructures, including network analysis and troubleshooting complex network issues.",
+      "tags": [
+        "CCNA Certified",
+        "Network Security",
+        "Enterprise Networks",
+        "Network Analysis"
+      ]
+    },
+    {
+      "icon": "🖥️",
+      "title": "Infrastructure & Systems",
+      "description": "Hands-on experience with physical server management, including hardware maintenance, operating system deployment, network device configuration, and comprehensive system monitoring for optimal performance.",
+      "tags": [
+        "Physical Server Management",
+        "Server Maintenance",
+        "OS Installation & Configuration",
+        "Network Device Maintenance",
+        "System Monitoring",
+        "Server Administration",
+        "Hardware Troubleshooting"
+      ]
+    },
+    {
+      "icon": "🎵",
+      "title": "Creative Skills",
+      "description": "6+ years of experience in electronic music production, audio engineering, and sound design, bringing creative problem-solving skills and attention to detail to technical projects.",
+      "tags": [
+        "Electronic Music",
+        "Audio Production",
+        "Sound Design",
+        "Music Composition"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Instructor | Computer Security Researcher",
+      "company": "Center of Science and Technology Advanced Development",
+      "period": "Jan 2024 - Present",
+      "achievements": [
+        "Specialized instruction in Web Security Penetration Testing, Full Stack Web Development, and CI/CD practices",
+        "Developed comprehensive course syllabi and training materials for cybersecurity programs",
+        "Mentored students on practical security projects including penetration testing methodologies",
+        "Led project development initiatives in web security tools and vulnerability assessment platforms"
+      ]
+    },
+    {
+      "title": "Freelance Web Developer",
+      "company": "Independent",
+      "period": "2023 - 2024",
+      "achievements": [
+        "Developed secure web applications with focus on security best practices",
+        "Implemented security testing protocols and vulnerability assessments for client projects",
+        "Provided consultation on web security and secure coding practices"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Inspectra Platform",
+      "type": "White-box Security Testing Platform",
+      "role": "Lead & Project Mentor",
+      "description": "Comprehensive platform designed for penetration testers and DevSecOps engineers to automatically test and scan project code for vulnerabilities and security flaws. Features automated vulnerability detection, detailed reporting, and remediation guidance.",
+      "technologies": [
+        "Python",
+        "Security Analysis",
+        "Code Scanning",
+        "Vulnerability Assessment"
+      ]
+    },
+    {
+      "title": "iFinder Search Engine",
+      "type": "Khmer Content Search Platform",
+      "role": "Lead & Project Mentor",
+      "description": "Specialized search engine enabling Khmer users to browse and discover content using Khmer keywords. Implemented advanced search algorithms and multilingual content indexing.",
+      "technologies": [
+        "Search Algorithms",
+        "Multilingual NLP",
+        "Database Optimization",
+        "Web Crawling"
+      ]
+    },
+    {
+      "title": "CAM-GIVING Platform",
+      "type": "Donation & Resource Sharing Platform",
+      "role": "Project Leader & Backend Developer",
+      "description": "Social impact platform facilitating resource sharing and donations within communities. Led development team and architected secure backend infrastructure.",
+      "technologies": [
+        "Full-Stack Development",
+        "Payment Integration",
+        "User Authentication",
+        "Database Security"
+      ]
+    },
+    {
+      "title": "Web Security Testing Toolkit",
+      "type": "Penetration Testing Tools",
+      "role": "Security Researcher",
+      "description": "Custom-built security testing toolkit featuring SQL injection detection, network scanning capabilities, and automated vulnerability assessment tools for web applications.",
+      "technologies": [
+        "SQL Injection Testing",
+        "Network Scanning",
+        "Automated Testing",
+        "Security Reporting"
+      ]
+    },
+
+    {
+      "title": "Vulnerability Scanner Tool",
+      "type": "Automated Security Testing",
+      "role": "Security Researcher",
+      "description": "Created an automated vulnerability scanning tool that identifies common security flaws in web applications and generates detailed remediation reports.",
+      "technologies": [
+        "Vulnerability Scanning",
+        "Automated Testing",
+        "Security Reporting",
+        "Web Security"
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Let's Connect",
+    "description": "I'm always interested in discussing new opportunities in cybersecurity, web development, or IT education. Whether you're looking for a security consultant, full-stack developer, or IT instructor, feel free to reach out via email.",
+    "specializations": [
+      "Web Security & Penetration Testing",
+      "Full-Stack Web Development",
+      "IT Training & Mentorship",
+      "Security Consulting"
+    ]
+  }
+}
