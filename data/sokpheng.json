@@ -23,7 +23,7 @@
       "label": "Security Projects"
     },
     {
-      "number": "8",
+      "number": "7+",
       "label": "Years Music Production"
     }
   ],
@@ -157,6 +157,15 @@
         "Developed Web application",
         "Provided setting up tools for Web application like traffic management using third-party services (Cloudflare,etc)",
         "University Computer Labotory Supporting"
+      ]
+    },
+    {
+      "title": "Electronic Music Composer",
+      "company": "Independent",
+      "period": "2017 - 2024 (Stopped in this year)",
+      "achievements": [
+        "Composed the Remix Track",
+        "Composed the Original Sound track for local production - 1 year experience"
       ]
     }
   ],
