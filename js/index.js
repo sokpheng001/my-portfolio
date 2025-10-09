@@ -1,3 +1,13 @@
+console.log(`I believe we need more practical demonstrations alongside theory.
+Security isn't just about awareness - it's about understanding attacker techniques. 
+The best way to learn defense is to understand offense.
+That's why every post on sokpheng.com includes:
+- How the attack works (theory)
+- How to execute it (demo)
+- How to defend against it (practical fix)
+Not for ego. Not for followers. 
+But because that's how you actually learn security.`);
+
 // Portfolio data and rendering functions
 let portfolioData = null;
 
