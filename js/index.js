@@ -8,6 +8,15 @@ The site will include:
 - How to defend against it (practical fix)
 Not for ego. Not for followers. 
 ==> Comming Soon...`);
+// detect not found route
+const routes = ["/", "/index.html"]; // Add your valid pages here
+const path = window.location.pathname;
+
+if (!routes.includes(path)) {
+  // If route is invalid, redirect to 404 page
+  window.location.href = "/not-found.html";
+}
+
 
 // Portfolio data and rendering functions
 let portfolioData = null;
