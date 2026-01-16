@@ -142,7 +142,7 @@
     {
       "title": "IT Instructor | Computer Security Researcher (Web Application Security Focusing)",
       "company": "Center of Science and Technology Advanced Development",
-      "period": "Jan 2024 - Present",
+      "period": "Jan 2024 - now",
       "achievements": [
         "Training Full-stack web development course",
         "System Administrator",
@@ -164,7 +164,7 @@
     {
       "title": "Electronic Music Composer",
       "company": "Independent",
-      "period": "2017 - 2023 (Stopped in this year)",
+      "period": "2016 - 2023",
       "achievements": [
         "Composed the Remix Track",
         "Composed the Original Sound track for local production - 1 year experience"
@@ -259,8 +259,8 @@
       ]
     },
     {
-      "title": "University Student registration",
-      "type": "Web application for students registration",
+      "title": "Learning Management System - LMS",
+      "type": "Web application for students learning management platform",
       "role": "Developer",
       "description": "Final Project for finishing the semeter at the University",
       "technologies": ["Laravel", "Linux"]
